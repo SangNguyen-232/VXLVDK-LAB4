@@ -1,0 +1,14 @@
+global.c:38:6:show_7seg	32	static
+global.c:47:6:scan_7seg	16	static
+global.c:74:6:update_buffer_mode	16	static
+global.c:81:6:update_buffer_time	16	static
+global.c:88:6:show_mode	16	static
+global.c:97:6:show_time	16	static
+global.c:109:6:verify_timers	4	static
+global.c:133:6:reset_to_defaults	16	static
+global.c:155:6:init_traffic_timers	16	static
+global.c:171:6:configure_leds	16	static
+global.c:184:20:config_north	16	static
+global.c:190:20:config_south	16	static
+global.c:196:6:run_traffic_lights	8	static
+global.c:275:6:apply_changes	16	static

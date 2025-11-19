@@ -1,0 +1,4 @@
+fsm.c:12:13:turn_Off_LEDs	8	static
+fsm.c:25:13:configure_and_display_mode	16	static
+fsm.c:31:13:handle_mode	8	static
+fsm.c:50:6:execute_fsm	8	static
